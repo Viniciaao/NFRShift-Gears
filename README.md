@@ -1,1 +1,1 @@
-- **NFRShift Gears Soundize** — câmbio manual (recriação do NFRShift Gears Mod) integrado ao mod **Soundize** (RPM/marcha reais no HUD via API oficial, controle de marcha sem brigar com o som) e com opção `DisableShiftAnim` pra compatibilidade com o **VEHIK** do zzpuma. Requer CLEO+ (e Soundize, opcional).
+- **NFRShift Gears Soundize** — câmbio manual (recriação do NFRShift Gears Mod) integrado ao mod **Soundize** (RPM/marcha reais no HUD via API oficial, controle de marcha sem brigar com o som)
